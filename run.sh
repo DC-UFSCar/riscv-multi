@@ -1,1 +1,1 @@
-./tests/run.sh
+./tests/run.sh fibo
